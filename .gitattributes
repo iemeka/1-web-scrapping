@@ -1,1 +1,1 @@
-files/* linguist-vendore
+*.rb linguist-language=python
