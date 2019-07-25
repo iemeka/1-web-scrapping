@@ -1,7 +1,6 @@
 ### web scrapping #1
 
-Extracting data from html files and storing them in files as:
-- text 
-- json
-
-and as rows of data in postgresql data base
+Extracting data from html files and storing them in the following format:
+- as text files 
+- as json files
+Also stored as rows of data in postgresql data base.
