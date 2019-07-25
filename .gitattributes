@@ -1,2 +1,4 @@
 # *.html linguist-language=Java
 text-files/* linguist-vendored=false
+files/* linguist-vendored=false
+json-files/* linguist-vendored=false
