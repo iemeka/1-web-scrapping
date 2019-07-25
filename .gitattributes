@@ -1,1 +1,2 @@
-*.rb linguist-language=python
+json-files/* linguist-vendored
+text-files/* linguist-vendored
